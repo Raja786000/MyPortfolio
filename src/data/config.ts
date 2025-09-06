@@ -1,16 +1,16 @@
 const config = {
   title: "Raja Babu | AI Enthusiast",
   description: {
-    long: "Explore the portfolio of Abhijit, a Computer Science Engineer with 1.5 year experience in Devlopment, DevOps & Database management with hands-on experience in deploying & automating workflows, & collaborating with foreign clients. Strong analytical skills, effective communication, and a team-oriented approach to driving process improvements and delivering results.",
+    long: "Explore the portfolio of Raja, a Computer Science Engineer with 1.5 year experience in Devlopment, DevOps & Database management with hands-on experience in deploying & automating workflows, & collaborating with foreign clients. Strong analytical skills, effective communication, and a team-oriented approach to driving process improvements and delivering results.",
     short:
       "Discover the portfolio of Abhijit, a AI enthusiast solving real life problems in DevOps and Development.",
   },
   keywords: [
-    "Abhijit",
-    "Abhijit Zende",
-    "abhijitzende",
-    "abhijitzende.com",
-    "Abhijit Zende portfolio",
+    "Raja Babu",
+    "Raja",
+    "Raja Babu",
+    "https://my-portfolio-sigma-six-45.vercel.app/",
+    "Raja Babu portfolio",
     "portfolio",
     "DevOps",
     "Devlopment",
@@ -38,11 +38,11 @@ const config = {
     return this.site + "/assets/seo/og-image.png";
   },
   social: {
-    twitter: "https://x.com/_Abhi_Speaks/",
-    linkedin: "https://www.linkedin.com/in/zende-abhijit/",
-    instagram: "https://www.instagram.com/_.celestial_abhi._/",
-    facebook: "https://www.facebook.com/profile.php?id=100010029821759",
-    github: "https://github.com/Abhiz2411/",
+    twitter: "https://x.com/rmd241104",
+    linkedin: "https://www.linkedin.com/in/raja-babu-34a871222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    instagram: "#",
+    facebook: "#",
+    github: "https://github.com/Raja786000",
   },
 };
 export { config };

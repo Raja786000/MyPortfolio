@@ -49,20 +49,20 @@ const CONTACT_LINKS = [
   },
   {
     name: "Phone",
-    content: "1234567890",
-    href: "tel:8308509180",
+    content: "7888621807",
+    href: "tel:7888621807",
     icon: <FaPhone height={"50px"} />,
   },
   {
     name: "LinkedIn",
-    href: "https://www.linkedin.com/in/zende-abhijit/",
-    content: "/zende-abhijit",
+    href: "https://www.linkedin.com/in/raja-babu-34a871222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    content: "/Raja-Babu",
     icon: <FaLinkedin height={"50px"} />,
   },
   {
     name: "GitHub",
-    href: "https://github.com/Abhiz2411",
-    content: "/naresh-khatri",
+    href: "https://github.com/Raja786000",
+    content: "/Raja-Babu",
     icon: <FaGithub height={"50px"} />,
   },
 ];
@@ -287,7 +287,7 @@ function Page() {
           >
             <h1 className="text-3xl mb-10 lg:md-20">About me</h1>
             <p className="mb-10 text-roboto">
-              Hey there! I&apos;m Abhijit, a Comp. Sci. Engineer with 1.5 year experience in Devlopment, DevOps and 
+              Hey there! I&apos;m Raja, a Comp. Sci. Engineer with 1.5 year experience in Devlopment, DevOps and 
               Database management with hands-on experience in deploying & automating workflows, and 
               collaborating with foreign clients. Strong analytical skills,effective communication,
               and a team-oriented approach to driving process improvements and delivering results.
