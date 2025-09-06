@@ -9,20 +9,20 @@ import "@splidejs/react-splide/css/core";
 import "@splidejs/react-splide/css";
 
 const PROJECTS = [
-  {
-    id: 1,
-    name: "AI Dockerfile optimizer",
-    description: `AI-Docker-file-optimizer helps optimize Dockerfiles for smaller, more efficient images. 
-            Simply paste your Dockerfile, and the app analyzes it for best practices and size 
-            optimization tips. It then provides a refactored, optimized version of the Dockerfile. 
-            Deployed on Vercel, it ensures fast and easy access to Dockerfile optimization..`,
-    link: "https://ai-docker-file-optimizer.netlify.app/",
-    images: [
-      "/assets/projects-screenshots/aidockerfileoptimizer/1.png",
-      "/assets/projects-screenshots/aidockerfileoptimizer/2.png",
-      "/assets/projects-screenshots/aidockerfileoptimizer/3.png",
-    ],
-  },
+  // {
+  //   id: 1,
+  //   name: "AI Dockerfile optimizer",
+  //   description: `AI-Docker-file-optimizer helps optimize Dockerfiles for smaller, more efficient images. 
+  //           Simply paste your Dockerfile, and the app analyzes it for best practices and size 
+  //           optimization tips. It then provides a refactored, optimized version of the Dockerfile. 
+  //           Deployed on Vercel, it ensures fast and easy access to Dockerfile optimization..`,
+  //   link: "https://ai-docker-file-optimizer.netlify.app/",
+  //   images: [
+  //     "/assets/projects-screenshots/aidockerfileoptimizer/1.png",
+  //     "/assets/projects-screenshots/aidockerfileoptimizer/2.png",
+  //     "/assets/projects-screenshots/aidockerfileoptimizer/3.png",
+  //   ],
+  // },
   {
     id: 2,
     name: "financeme",
@@ -46,19 +46,19 @@ const PROJECTS = [
       "/assets/projects-screenshots/financeme/10.png"
     ],
   },
-  {
-    id: 3,
-    name: "Portfolio",
-    description: `Welcome to my digital playground, where creativity meets code in the
-            dopest way possible.`,
-    link: "https://www.abhijitzende.com/",
-    images: [
-      "/assets/projects-screenshots/myportfolio/landing.png",
-      "/assets/projects-screenshots/myportfolio/navbar.png",
-      "/assets/projects-screenshots/myportfolio/projects.png",
-      "/assets/projects-screenshots/myportfolio/project.png",
-    ],
-  },
+  // {
+  //   id: 3,
+  //   name: "Portfolio",
+  //   description: `Welcome to my digital playground, where creativity meets code in the
+  //           dopest way possible.`,
+  //   link: "https://www.abhijitzende.com/",
+  //   images: [
+  //     "/assets/projects-screenshots/myportfolio/landing.png",
+  //     "/assets/projects-screenshots/myportfolio/navbar.png",
+  //     "/assets/projects-screenshots/myportfolio/projects.png",
+  //     "/assets/projects-screenshots/myportfolio/project.png",
+  //   ],
+  // },
   {
     id: 4,
     name: "Smart Parking Assistant",
