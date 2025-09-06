@@ -4,7 +4,7 @@
 
 Welcome to the repository for my personal portfolio website! 🎉 This project is a culmination of creativity, technology, and my dedication to showcasing my skills, projects, and personality in a visually stunning and interactive manner.
 
-![Portfolio Preview](https://github.com/Naresh-Khatri/Portfolio/blob/main/public/assets/projects-screenshots/portfolio/Home.png?raw=true)
+![Portfolio Preview](https://github.com/Raja786000/MyPortfolio/blob/main/public/assets/projects-screenshots/portfolio/Home.png?raw=true)
 
 
 
